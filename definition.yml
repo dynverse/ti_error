@@ -1,6 +1,6 @@
 id: error
-docker_repository: dynverse/dynmethods:error
-container_url: https://github.com/dynverse/dynmethods/tree/master/containers/error
+docker_repository: dynverse/ti_error
+container_url: https://github.com/dynverse/ti_error
 name: 'Control: error'
 type: control
 platform: R
