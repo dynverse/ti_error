@@ -1,5 +1,6 @@
 id: error
 docker_repository: dynverse/ti_error
+singularity_collection: 1546
 container_url: https://github.com/dynverse/ti_error
 name: 'Control: error'
 type: control
