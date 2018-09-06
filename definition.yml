@@ -4,8 +4,7 @@ container_url: https://github.com/dynverse/ti_error
 name: 'Control: error'
 type: control
 platform: R
-trajectory_types:
-- linear
+trajectory_types: []
 topology_inference: fixed
 parameters:
   dummy_param:
