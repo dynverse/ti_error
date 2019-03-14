@@ -12,7 +12,6 @@ wrapper:
   type: control
   topology_inference: fixed
   trajectory_types: []
-  example: /code/example.R
   input_required: expression
 
 parameters:
